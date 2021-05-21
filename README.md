@@ -12,6 +12,9 @@
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/>
+
 </p>
 
 

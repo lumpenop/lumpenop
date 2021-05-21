@@ -9,7 +9,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=plastic" style="max-width: 100%; user-select: auto;">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=plastic"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
 </p>
+
 
 
 <!--

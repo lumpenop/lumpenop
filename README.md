@@ -17,10 +17,8 @@
 
 </p>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lumpenop)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lumpenop&amp;theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   
-  <img src="https://camo.githubusercontent.com/ff8007ffa0d65247c4e18ce404c4802db99498764f322eaf1064552a17367859/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a616e656c6a73267468656d653d636f62616c74" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lumpenop&amp;theme=cobalt" style="max-width:100%;">
-
 
 
 <!--

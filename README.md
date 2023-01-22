@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-주 3회 readme 를 제외한 커밋이 없을 시
-
-주 7회 블로깅이 없을 시
-
-나를 찾아오시오
-
-
 
 <img src="https://img.shields.io/badge/-222222?style=plastic&logo=bitcoin&logoColor=white"/>
 <p>

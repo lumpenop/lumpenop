@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/lumpenop"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/lumpenop?pet-id=644007062293980569"
+    width="600"
+    height="120"
+  />
 </a>
+  
 <!--
 **lumpenop/lumpenop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

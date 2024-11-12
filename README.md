@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=lumpen&height=300)
+![header](https://capsule-render.vercel.app/api?type=slice&text=lumpen&height=300)
 
 
 <a href="https://github.com/devxb/gitanimals">

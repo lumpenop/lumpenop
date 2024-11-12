@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=lumpen)
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/lumpenop?pet-id=644007062293980570"
-    width="600"
-    height="180"
-  />
-</a>
+<div style="background-color: white">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/lumpenop?pet-id=644007062293980570"
+      width="600"
+      height="180"
+    />
+  </a>
+</div>
   
 <!--
 **lumpenop/lumpenop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

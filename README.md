@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=lumpen)
 
-<div style="background-color: white">
+<div style="background-color: white;">
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/lumpenop?pet-id=644007062293980570"

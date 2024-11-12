@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=slice&text=lumpen)
 
 <a href="https://github.com/devxb/gitanimals">
